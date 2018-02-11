@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="UserInfo.xsd" generated="2016-03-10T15:55:01">
+  <UserInfo>
+    <ID>2</ID>
+    <fullName>Jane Doe</fullName>
+    <gender>Female</gender>
+    <height>1.2</height>
+    <weight>51</weight>
+    <dateOfBirth>1996-01-11T00:00:00</dateOfBirth>
+    <bloodType>O Negative</bloodType>
+    <genotype>AS</genotype>
+  </UserInfo>
+</dataroot>

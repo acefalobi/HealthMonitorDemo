@@ -1,0 +1,27 @@
+C:\Users\Patrick Oramah\Documents\Health Monitor\Health Monitor\bin\Debug\Health Monitor.exe.config
+C:\Users\Patrick Oramah\Documents\Health Monitor\Health Monitor\obj\Debug\Health_Monitor.LoginForm.resources
+C:\Users\Patrick Oramah\Documents\Health Monitor\Health Monitor\obj\Debug\Health_Monitor.MainForm.resources
+C:\Users\Patrick Oramah\Documents\Health Monitor\Health Monitor\obj\Debug\Health_Monitor.EditUserForm.resources
+C:\Users\Patrick Oramah\Documents\Health Monitor\Health Monitor\obj\Debug\Health_Monitor.SelectUserForm.resources
+C:\Users\Patrick Oramah\Documents\Health Monitor\Health Monitor\obj\Debug\Health Monitor.vbproj.GenerateResource.Cache
+C:\Users\Patrick Oramah\Documents\Health Monitor\Health Monitor\obj\Debug\Health_Monitor.Resources.resources
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\bin\Debug\Health Monitor.exe.config
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\obj\Debug\Health Monitor.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\obj\Debug\Health_Monitor.LoginForm.resources
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\obj\Debug\Health_Monitor.MainForm.resources
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\obj\Debug\Health_Monitor.Resources.resources
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\obj\Debug\Health_Monitor.SelectUserForm.resources
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\obj\Debug\Health Monitor.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\bin\Debug\LoginInfo.xml
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\bin\Debug\LoginInfo.xsd
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\bin\Debug\Health Monitor.exe.manifest
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\bin\Debug\Health Monitor.application
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\bin\Debug\Health Monitor.exe
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\bin\Debug\Health Monitor.pdb
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\bin\Debug\Health Monitor.xml
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\bin\Debug\MaterialSkin.pdb
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\obj\Debug\Health Monitor.exe.manifest
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\obj\Debug\Health Monitor.application
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\obj\Debug\Health Monitor.exe
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\obj\Debug\Health Monitor.xml
+C:\Users\USER\Documents\Pro\Health Monitor\Health Monitor\obj\Debug\Health Monitor.pdb
